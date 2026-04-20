@@ -1,2 +1,2 @@
-# Resume-
+# Resume
 Public website for my resume
